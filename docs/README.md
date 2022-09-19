@@ -1,14 +1,7 @@
 <div align="center">
-📖 Github
+<a href="https://github.com/huihut/interview">📖 Github</a>
 &emsp;&emsp; | &emsp;&emsp;
-<a href="https://interview.huihut.com">📚 Docsify</a>
-</div> 
-<br>
-
-<div align="center">
-简体中文
-&emsp;&emsp; | &emsp;&emsp;
-<a href="https://github.com/huihut/interview/blob/master/README_en.md">English</a>
+📚 Docsify
 </div> 
 <br>
 
